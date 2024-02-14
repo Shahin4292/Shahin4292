@@ -14,14 +14,14 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Flutter Framework, Widget, Dart, Firebase... or anything [here](https://www.linkedin.com/in/md-shahin-sarker-392243267/)**
+💬 Ask me about **Flutter Framework, Widget, Dart, Firebase... or anything [here](https://www.linkedin-sarker-392243267/)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:shahinsarker8578@gmail.com">
+  <a href="mailto:shahinsarker878@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
