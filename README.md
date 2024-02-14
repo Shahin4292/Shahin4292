@@ -8,14 +8,14 @@
 </p>
 
 <p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=mamun193&label=Profile%20views&color=0e75b6&style=flat" alt="mamun193" /> 
+  <img src="https://komarev.com/ghpvc/?username=shahin4292&label=Profile%20views&color=0e75b6&style=flat" alt="shahin4292" /> 
 </p>
 
 
 <p align='center'>
   <a href="https://twitter.com/stefany_vasc"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/stefanyvasconcelos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:stefany.vasc.sa@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/md-shahin-sarker-392243267/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:shahinsarker878@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
@@ -95,11 +95,11 @@
 <details><summary><h2>
   𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤 ℂ𝕒𝕣𝕕:</h2></summary>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamun193&show_icons=true&locale=en&layout=dark" alt="mamun193" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahin4292&show_icons=true&locale=en&layout=dark" alt="shahin4292" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamun193&show_icons=true&locale=en" alt="mamun193" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahin4292&show_icons=true&locale=en" alt="shahin4292" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamun193&" alt="mamun193" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahin4292&" alt="shahin4292" /></p>
 
 
 </details>
