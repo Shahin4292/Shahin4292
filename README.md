@@ -54,12 +54,6 @@
 
 <hr>
 
-<h2>🌱 𝕀'𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘</h2>
-<p >
-<img src="https://img.shields.io/badge/php-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Laravel-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
-</p>
 <details><summary><h2>ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕞𝕖</h2>
 </summary>
 
