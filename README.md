@@ -48,7 +48,7 @@
 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕨𝕚𝕥𝕙 </h2>
 
 <h5>Flutter Apps Developer</h5>
-<p padding="20px" > <img src="https://img.shields.io/badge/dart%20-%23e34f26.svg?&style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Dart-F7DF1E?style=for-the-badge&logo=Dart&logoColor=black" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Laravel-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+<p padding="20px" > <img src="https://img.shields.io/badge/flutter%20-%23e34f26.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/restapi%20-%23e34f26.svg?&style=for-the-badge&logo=Restapi&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Dart-F7DF1E?style=for-the-badge&logo=Dart&logoColor=black" />&nbsp;&nbsp;
 </p>
 
 
