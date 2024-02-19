@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  I live in Dhaka, Bangladesh <b>Bangladesh</b> 
+  I live in Dhaka, <b>Bangladesh</b> 
 </p>
 
 <p align='center'>
